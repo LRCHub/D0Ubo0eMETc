@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Love Affair",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2026-02-10T02:16:08.435097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fool's Love Affair",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/01_Fool's_Love_Affair_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "First True Love Affair (Larry Levan Remix)",
+      "artist": "Jimmy Ross",
+      "has_synced": true,
+      "path": "select/02_First_True_Love_Affair_(Larry_Levan_Remix)_Jimmy_Ross.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Affair",
+      "artist": "Olive",
+      "has_synced": true,
+      "path": "select/03_Love_Affair_Olive.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Countryside Love Affair - Piano Demo",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/04_Countryside_Love_Affair_-_Piano_Demo_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brazilian Love Affair",
+      "artist": "George Duke",
+      "has_synced": true,
+      "path": "select/05_Brazilian_Love_Affair_George_Duke.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wake Me Up (Tony's Lamezmas \"Love Affair\")",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/06_Wake_Me_Up_(Tony's_Lamezmas__Love_Affair_)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wake Me Up (Tony Lamezma's \"Love Affair\")",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/07_Wake_Me_Up_(Tony_Lamezma's__Love_Affair_)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Telefone (Long Distance Love Affair)",
+      "artist": "Sheena Easton",
+      "has_synced": true,
+      "path": "select/08_Telefone_(Long_Distance_Love_Affair)_Sheena_Easton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Telephone (Long Distance Love Affair)",
+      "artist": "Sheena Easton",
+      "has_synced": true,
+      "path": "select/09_Telephone_(Long_Distance_Love_Affair)_Sheena_Easton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "18 Carat Love Affair",
+      "artist": "The Associates",
+      "has_synced": true,
+      "path": "select/10_18_Carat_Love_Affair_The_Associates.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I. C. Love Affair",
+      "artist": "Gaznevada",
+      "has_synced": false,
+      "path": "select/11_I._C._Love_Affair_Gaznevada.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I.C. Love Affair (Chinese Version)",
+      "artist": "Gaznevada",
+      "has_synced": false,
+      "path": "select/12_I.C._Love_Affair_(Chinese_Version)_Gaznevada.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I.C. Love Affair - Italian Version",
+      "artist": "Gaz Nevada",
+      "has_synced": true,
+      "path": "select/13_I.C._Love_Affair_-_Italian_Version_Gaz_Nevada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "IC Love Affair - Italian Version",
+      "artist": "Gaznevada",
+      "has_synced": true,
+      "path": "select/14_IC_Love_Affair_-_Italian_Version_Gaznevada.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Magical Love Affair",
+      "artist": "Magic Affair",
+      "has_synced": false,
+      "path": "select/15_Magical_Love_Affair_Magic_Affair.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The End of a Love Affair (Mono)",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/16_The_End_of_a_Love_Affair_(Mono)_Billie_Holiday.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The End Of A Love Affair (Mono - CL 1157)",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/17_The_End_Of_A_Love_Affair_(Mono_-_CL_1157)_Billie_Holiday.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Affair",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Affair_MY_FIRST_STORY.txt"
+    }
+  ]
+}
