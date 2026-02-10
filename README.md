@@ -1,0 +1,60 @@
+# MY FIRST STORY – Love Affair
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Can you keep a secret forever
+No matter what you say?
+Can you keep a secret to promise
+You should listen to me
+真実の愛なんて全て
+欠陥品だって
+喚き散らかした
+僕の心を潤して
+Now
+Let's go to find out
+where we are today!
+Let's go to find out
+where we seem away!
+僕の愛を君の中に
+注がせてくれないか？
+I don't know
+what you want from me in here
+I don't know
+what you want to do with me
+いつか僕以外の人が
+居なくなる時が来るまで
+不思議な水で肥えた
+バラが香る
+なぜか優しく震えて
+始めたいや
+真っ赤に染まってた夢を
+忘れないように
+悲劇のヒロインの首を
+締めて笑っていた
+愛に犯されてく
+Hey, whatcha wanna do,
+come with me now!
+Hey, what you gonna do,
+girl show me now!
+また一人ぼっちで虚しく
+慰めていれるだろう
+Please tell me
+when you're coming back tonight!
+Please tell me
+when you're calling me again!
+もう愛さなくてもいいから
+愛される前におさらばして
+Let's go to find out
+where we are today!
+Let's go to find out
+where we seem away!
+僕の愛を君の中に
+注がせてくれないか
+I don't know
+what you want from me in here
+I don't know
+what you want to do with me
+いつか僕以外の人が
+居なくなる時なんて来るのかな
+```
